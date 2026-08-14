@@ -1,0 +1,16 @@
+'''
+algoritmo/logica para programar el cryto procesador de texto
+
+  inicio
+  | 0. guardar en un diccionario cada caracter individuar y su plano con su caracter equivalente asociado (esa palte la elige usted)
+  | 1. mostrar mensaje de bienvenida
+  | 2. solicitar al usuario que digite un texto plano desde el teclado
+  | 3. guardar en una variable el mensaje digitado por el usuario
+  | 4. guardar en una lista el texto dividido en caracteres individuales 
+  | 5. cerificamos si el caracter individual plano dentro existe en el diccionario
+      5.1 si existe, sustitulle el caracter plano por el caracter equivalente y lo agregamos a una nueva lista de caracteres individuales
+  | 6. guardamos en una variable la union de cada caracter individual (que sera el texto final (cifrado))
+  | 7. mostramos en pantalla el mensaje: el texto encriptado es: texto final
+    (cifrado))
+  fin
+'''
